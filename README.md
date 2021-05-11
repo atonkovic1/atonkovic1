@@ -8,14 +8,13 @@ Technologies that I currently use the most are:
 - PostgreSQL
 - AWS (RDS and S3), Heroku
 
-Other technologies/tools that I have experience with are:
+Other technologies that I have experience with are:
 - Java, Spring, Spring Cloud, Netflix Eureka
 - C#, ASP.NET MVC, WinForms
 - Python
+- Next.js
 - MongoDB, H2
 - Docker
-- Jest, supertest, Selenium
-- Next.js
 
 I'm interested in improving my knowledge of ASP.NET and would like to do some projects with it in the future.
 
