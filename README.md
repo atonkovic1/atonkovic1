@@ -1,17 +1,19 @@
 Hi, my name is Antonio Tonković.
 
-I love developing web applications that solve real world problems that people have.
+I love developing web applications that solve real world problems.
 
 Technologies that I currently use the most are:
 - C#, .NET
-- React
-- PostgreSQL
+- Angular
+- Microsoft Azure
 
 Other technologies that I have experience with are:
 - Java, Spring
 - Node.js, Express
 - Python
+- React
+- PostgreSQL
 - MongoDB
-- Amazon AWS, Heroku
+- Amazon AWS
 
 You can reach me at antonio.tonkovic@gmail.com.
